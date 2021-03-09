@@ -98,4 +98,8 @@ public class CCuenta {
         setSaldo(getSaldo() - ctd);
     }
     
+    public void xd(){
+        int xd=0;
+    }
+    
 }
