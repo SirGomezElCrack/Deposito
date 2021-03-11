@@ -8,6 +8,7 @@ package optimizacion1;
 /**
  *
  * @author SirGomez
+ * Visto. El enlace al repositorio debería estar en el trabajo
  */
 public class CCuenta {
 
